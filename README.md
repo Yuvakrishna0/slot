@@ -18,7 +18,7 @@ Execute the program
 
 ## CODE
 
-'''
+```python
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,17 +113,18 @@ Execute the program
 </tr>
 </table>
 </body>
-</html>
+</html
 
-'''
-# OUTPUT
+```
+
+## OUTPUT
 
 ![OUTPUT](./out2.png)
 
-# HTML VALIDATOR
+## HTML VALIDATOR
 
 ![HTML VALIDATOR](./valid.png)
 
-# RESULT
+## RESULT
 
 the program for creating slot timetable is completed successfully
