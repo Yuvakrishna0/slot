@@ -16,7 +16,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
+
 '''
 <!DOCTYPE html>
 <html lang="en">
@@ -113,14 +114,15 @@ Execute the program
 </table>
 </body>
 </html>
+
 '''
 # OUTPUT
 
-![OUTPUT](http://yuvakrishnak.student.saveetha.in:8000/static/images/out2.png?raw=true)
+![OUTPUT](./out2.png)
 
 # HTML VALIDATOR
 
-![HTML VALIDATOR](http://yuvakrishnak.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 
